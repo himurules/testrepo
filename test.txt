@@ -1,6 +1,0 @@
-hello from outside
-see if you get these changes
-this change would not be present in master
-
-
-some how this is still there in master
